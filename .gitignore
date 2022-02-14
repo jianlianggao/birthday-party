@@ -1,3 +1,4 @@
 *.jpg
 *.jpeg
+!test.jpeg
 test.py
