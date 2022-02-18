@@ -2,4 +2,4 @@
 *.jpeg
 !test.jpeg
 test.py
-test1.py.txt
+test1.py.txt test2.txt
